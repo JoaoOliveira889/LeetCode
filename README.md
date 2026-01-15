@@ -1,27 +1,34 @@
-# 💻 LeetCode Solutions
+# LeetCode Solutions — C#
 
-Welcome to my personal repository of solutions for **LeetCode** programming challenges!  
-
-This project serves as a portfolio and a record of my progress in solving algorithm and data structure problems.  
-Each file contains my solution for a specific problem.
+This repository is a curated collection of my solutions to LeetCode programming challenges. It serves as both a personal archive for continuous learning and a portfolio demonstrating my problem-solving skills and proficiency in C# and .NET.
 
 ---
 
-## 📂 Repository Structure
+## What This Project Covers
 
-The repository is organized by problem difficulty, with each difficulty level having its own folder.  
-All solutions are written in **C#**.
-
-
-Each file is named with the corresponding LeetCode problem number (e.g., `1234.cs`).
+* Data Structures: Arrays, Linked Lists, Trees, Graphs, Heaps, and Hash Tables.
+* Algorithms: Sorting, Searching, Dynamic Programming, and Greedy Algorithms.
+* Problem-Solving Techniques: - Sliding Window (e.g., Minimum Size Subarray Sum)
 
 ---
 
-## 🛠️ Technologies Used
+## Project Structure
 
-- **C#**
+The repository is organized by problem difficulty to make navigation intuitive.
 
----
+```text
+.
+├── Easy/
+│   ├── 1.cs
+│   └── 13.cs
+├── Medium/
+│   ├── 2.cs
+│   └── 22.cs
+├── Hard/
+│   └── 4.cs
+└── README.md
+```
+
 
 ## 🚀 How to Navigate
 
@@ -32,7 +39,6 @@ Feel free to clone the repository and run the code locally.
 
 ---
 
-## 📄 License
+## License
 
-This project is for personal use and does not have a formal license.  
-Feel free to use it as a reference.
+Licensed under the **MIT License**. See the `LICENSE` file for details.
