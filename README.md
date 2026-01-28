@@ -29,8 +29,7 @@ The repository is organized by problem difficulty to make navigation intuitive.
 └── README.md
 ```
 
-
-## 🚀 How to Navigate
+## How to Navigate
 
 You can explore the folders to see the solutions I've created.  
 Inside each problem folder, you'll find the C# file with my solution.
